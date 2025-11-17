@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Secure Universal Users Service
 A ZMQ-based microservice that manages users with authentication and encrypted JSON storage.
