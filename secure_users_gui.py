@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Secure Users Service GUI Client with Authentication
 A graphical interface for managing user accounts with login functionality.
